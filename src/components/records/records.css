@@ -1,0 +1,13 @@
+
+.inf{
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 18px;
+  font-family: Verdana, sans-serif;
+}
+
+img{
+  height: 20px;
+  margin-right: 25px;
+  cursor: pointer;
+}
